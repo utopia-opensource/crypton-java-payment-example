@@ -8,6 +8,6 @@ The Jar file is located at GuiPaymentJavaUtp / PaymentUtpJava / out / artifacts 
 
 EXAMPLE
 
-Entering a token, port, public key to send to another owner and the amount of currency to send
+Entering a token, port, public key to send to the owner and the amount of currency to send. The amount sent exceeds the balance.
 
 ![GUIex](https://user-images.githubusercontent.com/77910713/113784841-c0012880-973e-11eb-9fe4-a7998b7e9aab.JPG)
