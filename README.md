@@ -1,4 +1,4 @@
-# GuiPaymentJavaUtp
+# crypton-java-payment-example
 
 This application sends Crypton in the Utopia Ecosystem using the Utopia API. It also shows the public address of the owner and his available balance.
 
